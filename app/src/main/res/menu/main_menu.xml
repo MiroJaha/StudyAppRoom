@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Kotlin Review"
+        android:id="@+id/kotlinChoice"
+        app:showAsAction="never"/>
+
+    <item android:title="Android Studio Review"
+        android:id="@+id/androidChoice"
+        app:showAsAction="never"/>
+
+</menu>
